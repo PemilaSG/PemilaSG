@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**PemilaSG/PemilaSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Passionate+Developer;Open+to+Collaborations!" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+## 🚀 **About Me**
+- 💻 I'm a [Your Role/Profession] specializing in **[Technologies/Focus Areas]**.
+- 🌱 I’m currently learning: **[Current Skills or Technologies]**.
+- 🔗 Check out my portfolio: [Your Portfolio Link](#)
+- 🧠 I’m exploring: **[Topics you're interested in]**.
+- 💬 Feel free to reach out about: **[Topics you are confident in]**.
+- ⚡ Fun fact: **[Interesting fact about you]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Tech Stack**
+
+### Languages  
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp)
+
+### Frameworks  
+![Frameworks](https://skillicons.dev/icons?i=react,angular,nodejs,django)
+
+### Tools & Platforms  
+![Tools](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,figma)
+
+---
+
+## 🌟 **Highlighted Projects**
+### 🚀 [Project Name 1](#)
+- Description: [Brief project description]
+- Key Technologies: [Tech stack]
+- Features: [Highlight unique features]
+
+### 🔥 [Project Name 2](#)
+- Description: [Brief project description]
+- Key Technologies: [Tech stack]
+- Features: [Highlight unique features]
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://twitter.com/y
