@@ -10,10 +10,6 @@
 - 🧠 I’m exploring: **AI, software engineering, and cybersecurity**.
 - 💬 Feel free to reach out about: **tech discussions, coding challenges, and collaborations**.
 - ⚡ Fun fact: **I’m a little bit lazy, but I get things done in my own way!**
-
----
-
-Let me know if there’s anything else you’d like to adjust! 😊
 ---
 
 ## 🛠️ **Tech Stack**
