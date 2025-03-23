@@ -18,7 +18,7 @@
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp)
 
 ### Tools & Platforms  
-![Tools](https://skillicons.dev/icons?i=git,figma)
+![Tools](https://skillicons.dev/icons?i=figma)
 
 ## 📊 **GitHub Stats**
 <p align="center">
