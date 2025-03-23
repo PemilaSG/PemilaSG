@@ -17,9 +17,6 @@
 ### Languages  
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp)
 
-### Frameworks  
-![Frameworks](https://skillicons.dev/icons?i=react,angular,nodejs,django)
-
 ### Tools & Platforms  
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,figma)
 
