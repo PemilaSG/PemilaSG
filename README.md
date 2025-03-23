@@ -15,7 +15,7 @@
 ## 🛠️ **Tech Stack**
 
 ### Languages  
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp)
+![Languages](https://skillicons.dev/icons?i=js,python,java,c)
 
 ### Tools & Platforms  
 ![Tools](https://skillicons.dev/icons?i=figma)
